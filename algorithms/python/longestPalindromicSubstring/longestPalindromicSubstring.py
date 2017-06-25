@@ -25,24 +25,24 @@ Output: "bb"
 class Solution(object):
     # O(n)
     # def longestPalindrome(self, s):
-        sLen = len(s)
-        rStr = ''
-        if sLen == 0:
-            return rStr
-        maxLen = 1
-        start = 0
-        for i in xrange(sLen):
-            if i-maxLen >= 1 and s[i-maxLen-1:i+1] == s[i-maxLen-1:i+1][::-1]:
-                start = i - maxLen - 1
-                maxLen += 2
-                continue
+    #     sLen = len(s)
+    #     rStr = ''
+    #     if sLen == 0:
+    #         return rStr
+    #     maxLen = 1
+    #     start = 0
+    #     for i in xrange(sLen):
+    #         if i-maxLen >= 1 and s[i-maxLen-1:i+1] == s[i-maxLen-1:i+1][::-1]:
+    #             start = i - maxLen - 1
+    #             maxLen += 2
+    #             continue
 
-            if i-maxLen >= 0 and s[i-maxLen:i+1] == s[i-maxLen:i+1][::-1]:
-                start = i - maxLen
-                maxLen += 1
+    #         if i-maxLen >= 0 and s[i-maxLen:i+1] == s[i-maxLen:i+1][::-1]:
+    #             start = i - maxLen
+    #             maxLen += 1
 
-        rStr = s[start:start+maxLen]
-        return rStr
+    #     rStr = s[start:start+maxLen]
+    #     return rStr
 
     def findPalindrome(self, s, lPaIndex, rPaIndex):
         rStr = ''
