@@ -48,45 +48,78 @@ INT_MAX (2147483647) or INT_MIN (-2147483648) is returned.
 
 '''
 
+import re
+
 class Solution(object):
+
+    def myAtoi(self, str):
+        str = str.strip()
+        str = re.findall('^[+\-]?\d+', str)
+
+        try:
+            res = int(''.join(str))
+            MAX = 2147483647
+            MIN = -2147483648
+            if res > MAX:
+                return MAX
+            if res < MIN:
+                return MIN
+            return res
+        except:
+            return 0
+
     INT_MAX = pow(2, 31) - 1
     INT_MIN = -pow(2, 31)
 
-    def myAtoi(self, str):
-        """
-        :type str: str
-        :rtype: int
-        """
-        if str == None or str == '':
-            return 0
+    # def myAtoi(self, str):
+    #     str = str.strip()
+    #     str = re.findall('^[+\-]?\d+', str)
 
-        for i, c in enumerate(str):
-            if c.isdigit() or c == '+' or c == '-':
-                str = str[i:]
-                break
-            if not c.isspace():
-                return 0
+    #     try:
+    #         res = int("".join(str))
+    #         if res > self.INT_MAX:
+    #             return self.INT_MAX
+    #         if res < self.INT_MIN:
+    #             return self.INT_MIN
+    #         return res
+    #     except:
+    #         return 0
 
-        s = -1 if str[0] == '-' else 1
-        str = str[1:] if str[0] == '+' or str[0] == '-' else str
+    # def myAtoi(self, str):
+    #     """
+    #     :type str: str
+    #     :rtype: int
+    #     """
+    #     if str == None or str == '':
+    #         return 0
 
-        for i, c in enumerate(str):
-            if not c.isdigit():
-                str = str[:i]
-                break
+    #     for i, c in enumerate(str):
+    #         if c.isdigit() or c == '+' or c == '-':
+    #             str = str[i:]
+    #             break
+    #         if not c.isspace():
+    #             return 0
 
-        if not str.isdigit():
-            return 0
+    #     s = -1 if str[0] == '-' else 1
+    #     str = str[1:] if str[0] == '+' or str[0] == '-' else str
 
-        num = int(str)
-        num *= s
-        if num < self.INT_MIN:
-            ret = self.INT_MIN
-        elif num > self.INT_MAX:
-            ret = self.INT_MAX
-        else:
-            ret = num
-        return ret
+    #     for i, c in enumerate(str):
+    #         if not c.isdigit():
+    #             str = str[:i]
+    #             break
+
+    #     if not str.isdigit():
+    #         return 0
+
+    #     num = int(str)
+    #     num *= s
+    #     if num < self.INT_MIN:
+    #         ret = self.INT_MIN
+    #     elif num > self.INT_MAX:
+    #         ret = self.INT_MAX
+    #     else:
+    #         ret = num
+    #     return ret
 
     def myAtoiTest(self):
         tDict = {
