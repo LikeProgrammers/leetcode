@@ -5,6 +5,7 @@
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
 |   |[]() | [python](./algorithms/python/) |Medium|
+|13 |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/#/description) | [python](./algorithms/python/romanToInteger/romanToInteger.py) |Easy|
 |12 |[Integer to Roman](https://leetcode.com/problems/integer-to-roman/#/description) | [python](./algorithms/python/integerToRoman/integerToRoman.py) |Medium|
 |11 |[Container With Most Water](https://leetcode.com/problems/container-with-most-water/#/description) | [python](./algorithms/python/containerWithMostWater/containerWithMostWater.py) |Medium|
 |10 |[Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/#/description) | [python](./algorithms/python/regularExpressionMatching/regularExpressionMatching.py) |Hard|
