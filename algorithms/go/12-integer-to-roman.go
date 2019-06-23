@@ -5,8 +5,6 @@ import (
 )
 
 func main() {
-	// strs := []string{"flower", "flow", "flight"}
-	// strs := []string{"dog", "racecar", "car"}
 	nums := []int{1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 58, 54, 1994}
 	// nums := []int{9}
 	for _, num := range nums {
