@@ -4,9 +4,11 @@
 
 | # | Title | Solution | Difficulty |
 | :-: | :-- | :-- | :-- |
-|   | []() | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/) | Medium |
+|   | []() | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/) |  |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/35-search-insert-position.go) | Easy |
+| 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/20-valid-parentheses.go) | Easy |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/#/description) | [python](https://github.com/haokw/leetcode/tree/master/algorithms/python/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.py), [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/19-remove-nth-node-from-end-of-list.go) | Medium |
+| 18 | [4Sum](https://leetcode.com/problems/4sum/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/) | Medium |
 | 17 | [**Letter Combinations of a Phone Number**](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/17-letter-combinations-of-a-phone-number.go) | Medium |
 | 16 | [3Sum Closest](https://leetcode.com/problems/3sum-closest/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/16-3sum-closest.go) | Medium |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/#/description) | [python](https://github.com/haokw/leetcode/tree/master/algorithms/python/threeSum/threeSum.py), [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/15-3sum.go) | Medium |
