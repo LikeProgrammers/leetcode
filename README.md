@@ -6,6 +6,7 @@
 | :-: | :-- | :-- | :-- |
 |   | []() | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/) |  |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/35-search-insert-position.go) | Easy |
+| 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/21-merge-two-sorted-lists.go) | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/20-valid-parentheses.go) | Easy |
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/#/description) | [python](https://github.com/haokw/leetcode/tree/master/algorithms/python/removeNthNodeFromEndOfList/removeNthNodeFromEndOfList.py), [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/19-remove-nth-node-from-end-of-list.go) | Medium |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/) | Medium |
