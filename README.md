@@ -6,6 +6,8 @@
 | :-: | :-- | :-- | :-- |
 |   | []() | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/) |  |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/35-search-insert-position/35-search-insert-position.go) | Easy |
+| 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/28-implement-strstr/28-implement-strstr.go) | Easy |
+| 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/27-remove-element/27-remove-element.go) | Easy |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/26-remove-duplicates-from-sorted-array/26-remove-duplicates-from-sorted-array.go) | Easy |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/21-merge-two-sorted-lists/21-merge-two-sorted-lists.go) | Easy |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/20-valid-parentheses/20-valid-parentheses.go) | Easy |
