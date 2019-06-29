@@ -5,6 +5,7 @@
 | # | Title | Solution | Difficulty |
 | :-: | :-- | :-- | :-- |
 |  | []() | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/) |  |
+| 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/53-maximum-subarray/53-maximum-subarray.go) | Easy |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/38-count-and-say/38-count-and-say.go) | Easy |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/35-search-insert-position/35-search-insert-position.go) | Easy |
 | 28 | [Implement strStr()](https://leetcode.com/problems/implement-strstr/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/28-implement-strstr/28-implement-strstr.go) | Easy |
