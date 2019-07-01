@@ -4,7 +4,8 @@
 
 | # | Title | Solution | Difficulty |
 | :-: | :-- | :-- | :-- |
-|  | []() | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/) |  |
+|  | []() | [go](https://github.com/haokw/leetcode/tree/master/) |  |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/66-plus-one/66-plus-one.go) | Easy |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/58-length-of-last-word/58-length-of-last-word.go) | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/53-maximum-subarray/53-maximum-subarray.go) | Easy |
 | 38 | [Count and Say](https://leetcode.com/problems/count-and-say/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/38-count-and-say/38-count-and-say.go) | Easy |
