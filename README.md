@@ -5,6 +5,7 @@
 | # | Title | Solution | Difficulty |
 | :-: | :-- | :-- | :-- |
 |  | []() | [go](https://github.com/haokw/leetcode/tree/master/) |  |
+| 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/67-add-binary/67-add-binary.go) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/66-plus-one/66-plus-one.go) | Easy |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/58-length-of-last-word/58-length-of-last-word.go) | Easy |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/53-maximum-subarray/53-maximum-subarray.go) | Easy |
