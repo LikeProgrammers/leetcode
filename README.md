@@ -5,6 +5,8 @@
 | # | Title | Solution | Difficulty |
 | :-: | :-- | :-- | :-- |
 |  | []() | [go](https://github.com/haokw/leetcode/tree/master/) |  |
+| 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/70-climbing-stairs/70-climbing-stairs.go) | Easy |
+| 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/69-sqrtx/69-sqrtx.go) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/67-add-binary/67-add-binary.go) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/66-plus-one/66-plus-one.go) | Easy |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/58-length-of-last-word/58-length-of-last-word.go) | Easy |
