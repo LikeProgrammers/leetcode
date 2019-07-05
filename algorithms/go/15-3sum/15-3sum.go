@@ -13,7 +13,6 @@ func main() {
 	}
 }
 
-// remove duplicate combination
 func threeSum(nums []int) [][]int {
 	ln := len(nums)
 	var ret [][]int = nil

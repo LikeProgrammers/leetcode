@@ -13,7 +13,6 @@ func main() {
 	}
 }
 
-// remove duplicate combination
 func threeSumClosest(nums []int, target int) int {
 	const MAX_INT = 1 << 31
 	ln := len(nums)

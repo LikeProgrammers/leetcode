@@ -5,6 +5,8 @@
 | # | Title | Solution | Difficulty |
 | :-: | :-- | :-- | :-- |
 |  | []() | [go](https://github.com/haokw/leetcode/tree/master/) |  |
+| 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/88-merge-sorted-array/88-merge-sorted-array.go) | Easy |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/83-remove-duplicates-from-sorted-list/83-remove-duplicates-from-sorted-list.go) | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/70-climbing-stairs/70-climbing-stairs.go) | Easy |
 | 69 | [Sqrt(x)](https://leetcode.com/problems/sqrtx/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/69-sqrtx/69-sqrtx.go) | Easy |
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/67-add-binary/67-add-binary.go) | Easy |
