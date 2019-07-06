@@ -5,6 +5,7 @@
 | # | Title | Solution | Difficulty |
 | :-: | :-- | :-- | :-- |
 |  | []() | [go](https://github.com/haokw/leetcode/tree/master/) |  |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/136-single-number/136-single-number.go) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/88-merge-sorted-array/88-merge-sorted-array.go) | Easy |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/83-remove-duplicates-from-sorted-list/83-remove-duplicates-from-sorted-list.go) | Easy |
 | 70 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/70-climbing-stairs/70-climbing-stairs.go) | Easy |
