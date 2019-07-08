@@ -6,6 +6,7 @@
 | :-: | :-- | :-- | :-- |
 |  | []() | [go](https://github.com/haokw/leetcode/tree/master/) |  |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/136-single-number/136-single-number.go) | Easy |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/101-symmetric-tree/101-symmetric-tree.go) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/100-same-tree/100-same-tree.go) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/88-merge-sorted-array/88-merge-sorted-array.go) | Easy |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/83-remove-duplicates-from-sorted-list/83-remove-duplicates-from-sorted-list.go) | Easy |
