@@ -6,6 +6,8 @@
 | :-: | :-- | :-- | :-- |
 |  | []() | [go](https://github.com/haokw/leetcode/tree/master/) |  |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/136-single-number/136-single-number.go) | Easy |
+| 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/111-minimum-depth-of-binary-tree/111-minimum-depth-of-binary-tree.go) | Easy |
+| 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/104-maximum-depth-of-binary-tree/104-maximum-depth-of-binary-tree.go) | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/101-symmetric-tree/101-symmetric-tree.go) | Easy |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/100-same-tree/100-same-tree.go) | Easy |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/88-merge-sorted-array/88-merge-sorted-array.go) | Easy |
