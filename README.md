@@ -5,9 +5,13 @@
 | # | Title | Solution | Difficulty |
 | :-: | :-- | :-- | :-- |
 |  | []() | [go](https://github.com/haokw/leetcode/tree/master/) |  |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/349-intersection-of-two-arrays/349-intersection-of-two-arrays.go) | Easy |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/231-power-of-two/231-power-of-two.go) | Easy |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/219-contains-duplicate-ii/219-contains-duplicate-ii.go) | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/217-contains-duplicate/217-contains-duplicate.go) | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/191-number-of-1-bits/191-number-of-1-bits.go) | Easy |
+| 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/190-reverse-bits/190-reverse-bits.go) | Easy |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/189-rotate-array/189-rotate-array.go) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/136-single-number/136-single-number.go) | Easy |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/119-pascals-triangle-ii/119-pascals-triangle-ii.go) | Easy |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/118-pascals-triangle/118-pascals-triangle.go) | Easy |
