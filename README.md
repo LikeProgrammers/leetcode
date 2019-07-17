@@ -6,6 +6,7 @@
 | :-: | :-- | :-- | :-- |
 |  | []() | [go](https://github.com/haokw/leetcode/tree/master/) |  |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/349-intersection-of-two-arrays/349-intersection-of-two-arrays.go) | Easy |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/242-valid-anagram/242-valid-anagram.go) | Easy |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/231-power-of-two/231-power-of-two.go) | Easy |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/219-contains-duplicate-ii/219-contains-duplicate-ii.go) | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/217-contains-duplicate/217-contains-duplicate.go) | Easy |
