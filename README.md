@@ -6,6 +6,9 @@
 | :-: | :-- | :-- | :-- |
 |  | []() | [go](https://github.com/haokw/leetcode/tree/master/) |  |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/349-intersection-of-two-arrays/349-intersection-of-two-arrays.go) | Easy |
+| 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/345-reverse-vowels-of-a-string/345-reverse-vowels-of-a-string.go) | Easy |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/344-reverse-string/344-reverse-string.go) | Easy |
+| 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/258-add-digits/258-add-digits.go) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/242-valid-anagram/242-valid-anagram.go) | Easy |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/231-power-of-two/231-power-of-two.go) | Easy |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/219-contains-duplicate-ii/219-contains-duplicate-ii.go) | Easy |
@@ -13,6 +16,8 @@
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/191-number-of-1-bits/191-number-of-1-bits.go) | Easy |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/190-reverse-bits/190-reverse-bits.go) | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/189-rotate-array/189-rotate-array.go) | Easy |
+| 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/171-excel-sheet-column-number/171-excel-sheet-column-number.go) | Easy |
+| 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/168-excel-sheet-column-title/168-excel-sheet-column-title.go) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/136-single-number/136-single-number.go) | Easy |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/119-pascals-triangle-ii/119-pascals-triangle-ii.go) | Easy |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/118-pascals-triangle/118-pascals-triangle.go) | Easy |
