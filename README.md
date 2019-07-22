@@ -8,11 +8,13 @@
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/349-intersection-of-two-arrays/349-intersection-of-two-arrays.go) | Easy |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/345-reverse-vowels-of-a-string/345-reverse-vowels-of-a-string.go) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/344-reverse-string/344-reverse-string.go) | Easy |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/268-missing-number/268-missing-number.go) | Easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/258-add-digits/258-add-digits.go) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/242-valid-anagram/242-valid-anagram.go) | Easy |
 | 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/231-power-of-two/231-power-of-two.go) | Easy |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/219-contains-duplicate-ii/219-contains-duplicate-ii.go) | Easy |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/217-contains-duplicate/217-contains-duplicate.go) | Easy |
+| 205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/205-isomorphic-strings/205-isomorphic-strings.go) | Easy |
 | 191 | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/191-number-of-1-bits/191-number-of-1-bits.go) | Easy |
 | 190 | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/190-reverse-bits/190-reverse-bits.go) | Easy |
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/189-rotate-array/189-rotate-array.go) | Easy |
