@@ -8,6 +8,7 @@
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/349-intersection-of-two-arrays/349-intersection-of-two-arrays.go) | Easy |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/345-reverse-vowels-of-a-string/345-reverse-vowels-of-a-string.go) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/344-reverse-string/344-reverse-string.go) | Easy |
+| 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/283-move-zeroes/283-move-zeroes.go) | Easy |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/268-missing-number/268-missing-number.go) | Easy |
 | 258 | [Add Digits](https://leetcode.com/problems/add-digits/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/258-add-digits/258-add-digits.go) | Easy |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/242-valid-anagram/242-valid-anagram.go) | Easy |
