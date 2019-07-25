@@ -6,6 +6,7 @@
 | :-: | :-- | :-- | :-- |
 |  | []() | [go](https://github.com/haokw/leetcode/tree/master/) |  |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/367-valid-perfect-square/367-valid-perfect-square.go) | Easy |
+| 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/350-intersection-of-two-arrays-ii/350-intersection-of-two-arrays-ii.go) | Easy |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/349-intersection-of-two-arrays/349-intersection-of-two-arrays.go) | Easy |
 | 345 | [Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/345-reverse-vowels-of-a-string/345-reverse-vowels-of-a-string.go) | Easy |
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/344-reverse-string/344-reverse-string.go) | Easy |
