@@ -5,6 +5,7 @@
 | # | Title | Solution | Difficulty |
 | :-: | :-- | :-- | :-- |
 |  | []() | [go](https://github.com/haokw/leetcode/tree/master/) |  |
+| 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/389-find-the-difference/389-find-the-difference.go) | Easy |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/367-valid-perfect-square/367-valid-perfect-square.go) | Easy |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/350-intersection-of-two-arrays-ii/350-intersection-of-two-arrays-ii.go) | Easy |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/349-intersection-of-two-arrays/349-intersection-of-two-arrays.go) | Easy |
