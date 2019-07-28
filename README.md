@@ -6,6 +6,7 @@
 | :-: | :-- | :-- | :-- |
 |  | []() | [go](https://github.com/haokw/leetcode/tree/master/) |  |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/389-find-the-difference/389-find-the-difference.go) | Easy |
+| 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/387-first-unique-character-in-a-string/387-first-unique-character-in-a-string.go) | Easy |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/383-ransom-note/383-ransom-note.go) | Easy |
 | 367 | [Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/367-valid-perfect-square/367-valid-perfect-square.go) | Easy |
 | 350 | [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/350-intersection-of-two-arrays-ii/350-intersection-of-two-arrays-ii.go) | Easy |
