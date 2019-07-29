@@ -29,6 +29,7 @@
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/136-single-number/136-single-number.go) | Easy |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/119-pascals-triangle-ii/119-pascals-triangle-ii.go) | Easy |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/118-pascals-triangle/118-pascals-triangle.go) | Easy |
+| 112 | [Path Sum](https://leetcode.com/problems/path-sum/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/112-path-sum/112-path-sum.go) | Easy |
 | 111 | [Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/111-minimum-depth-of-binary-tree/111-minimum-depth-of-binary-tree.go) | Easy |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/104-maximum-depth-of-binary-tree/104-maximum-depth-of-binary-tree.go) | Easy |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/101-symmetric-tree/101-symmetric-tree.go) | Easy |
