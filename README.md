@@ -26,6 +26,7 @@
 | 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/189-rotate-array/189-rotate-array.go) | Easy |
 | 171 | [Excel Sheet Column Number](https://leetcode.com/problems/excel-sheet-column-number/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/171-excel-sheet-column-number/171-excel-sheet-column-number.go) | Easy |
 | 168 | [Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/168-excel-sheet-column-title/168-excel-sheet-column-title.go) | Easy |
+| 160 | [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/160-intersection-of-two-linked-lists/160-intersection-of-two-linked-lists.go) | Easy |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/136-single-number/136-single-number.go) | Easy |
 | 119 | [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/119-pascals-triangle-ii/119-pascals-triangle-ii.go) | Easy |
 | 118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/118-pascals-triangle/118-pascals-triangle.go) | Easy |
