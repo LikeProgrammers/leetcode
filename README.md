@@ -5,6 +5,7 @@
 | # | Title | Solution | Difficulty |
 | :-: | :-- | :-- | :-- |
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/1108-defanging-an-ip-address/1108-defanging-an-ip-address.go) | Easy |
+| 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/771-jewels-and-stones/771-jewels-and-stones.go) | Easy |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/389-find-the-difference/389-find-the-difference.go) | Easy |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/387-first-unique-character-in-a-string/387-first-unique-character-in-a-string.go) | Easy |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/383-ransom-note/383-ransom-note.go) | Easy |
