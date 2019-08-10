@@ -8,6 +8,7 @@
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/771-jewels-and-stones/771-jewels-and-stones.go) | Easy |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/709-to-lower-case/709-to-lower-case.go) | Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/412-fizz-buzz/412-fizz-buzz.go) | Easy |
+| 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/392-is-subsequence/392-is-subsequence.go) | Easy |
 | 389 | [Find the Difference](https://leetcode.com/problems/find-the-difference/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/389-find-the-difference/389-find-the-difference.go) | Easy |
 | 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/387-first-unique-character-in-a-string/387-first-unique-character-in-a-string.go) | Easy |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/383-ransom-note/383-ransom-note.go) | Easy |

@@ -5,9 +5,9 @@ import (
 	"strings"
 )
 
-func main () {
+func main() {
 	str := "Hello"
-	ret := toLowerCase(str);
+	ret := toLowerCase(str)
 	fmt.Println(ret)
 }
 
