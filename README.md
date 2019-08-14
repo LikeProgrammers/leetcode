@@ -8,6 +8,7 @@
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/771-jewels-and-stones/771-jewels-and-stones.go) | Easy |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/709-to-lower-case/709-to-lower-case.go) | Easy |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/443-string-compression/443-string-compression.go) | Easy |
+| 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/441-arranging-coins/441-arranging-coins.go) | Easy |
 | 434 | [Number of Segments in a String](https://leetcode.com/problems/number-of-segments-in-a-string/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/434-number-of-segments-in-a-string/434-number-of-segments-in-a-string.go) | Easy |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/415-add-strings/415-add-strings.go) | Easy |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/412-fizz-buzz/412-fizz-buzz.go) | Easy |
