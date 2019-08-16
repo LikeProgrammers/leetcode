@@ -51,6 +51,7 @@
 | 67 | [Add Binary](https://leetcode.com/problems/add-binary/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/67-add-binary/67-add-binary.go) | Easy |
 | 66 | [Plus One](https://leetcode.com/problems/plus-one/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/66-plus-one/66-plus-one.go) | Easy |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/58-length-of-last-word/58-length-of-last-word.go) | Easy |
+| 54 | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/54-spiral-matrix/54-spiral-matrix.go) | Medium |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/53-maximum-subarray/53-maximum-subarray.go) | Easy |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/50-powx-n/50-powx-n.go) | Medium |
 | 49 | [**Group Anagrams**](https://leetcode.com/problems/group-anagrams/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/49-group-anagrams/49-group-anagrams.go) | Medium |
