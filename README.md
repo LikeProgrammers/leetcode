@@ -7,6 +7,7 @@
 | 1108 | [Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/1108-defanging-an-ip-address/1108-defanging-an-ip-address.go) | Easy |
 | 771 | [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/771-jewels-and-stones/771-jewels-and-stones.go) | Easy |
 | 709 | [To Lower Case](https://leetcode.com/problems/to-lower-case/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/709-to-lower-case/709-to-lower-case.go) | Easy |
+| 520 | [Detect Capital](https://leetcode.com/problems/detect-capital/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/520-detect-capital/520-detect-capital.go) | Easy |
 | 448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/448-find-all-numbers-disappeared-in-an-array/448-find-all-numbers-disappeared-in-an-array.go) | Easy |
 | 443 | [String Compression](https://leetcode.com/problems/string-compression/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/443-string-compression/443-string-compression.go) | Easy |
 | 441 | [Arranging Coins](https://leetcode.com/problems/arranging-coins/) | [go](https://github.com/haokw/leetcode/tree/master/algorithms/go/441-arranging-coins/441-arranging-coins.go) | Easy |
