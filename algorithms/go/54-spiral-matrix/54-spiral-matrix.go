@@ -8,7 +8,7 @@ func main() {
 	martix := [][]int{
 		{1, 2, 3, 4},
 		{5, 6, 7, 8},
-		{9,10,11,12},
+		{9, 10, 11, 12},
 	}
 	fmt.Println(martix)
 	ret := spiralOrder(martix)
@@ -38,7 +38,7 @@ func spiralOrder(matrix [][]int) []int {
 		switch dir {
 		case "right":
 			_, found := visited[rap(i, j+1)]
-			if j + 1 < col && !found {
+			if j+1 < col && !found {
 				j++
 			} else {
 				dir = "down"
@@ -46,7 +46,7 @@ func spiralOrder(matrix [][]int) []int {
 			}
 		case "down":
 			_, found := visited[rap(i+1, j)]
-			if i + 1 < row && !found {
+			if i+1 < row && !found {
 				i++
 			} else {
 				dir = "left"
@@ -54,7 +54,7 @@ func spiralOrder(matrix [][]int) []int {
 			}
 		case "left":
 			_, found := visited[rap(i, j-1)]
-			if j - 1 >= 0 && !found {
+			if j-1 >= 0 && !found {
 				j--
 			} else {
 				dir = "up"
@@ -62,7 +62,7 @@ func spiralOrder(matrix [][]int) []int {
 			}
 		case "up":
 			_, found := visited[rap(i-1, j)]
-			if i - 1 >= 0 && !found {
+			if i-1 >= 0 && !found {
 				i--
 			} else {
 				dir = "right"

@@ -5,7 +5,7 @@ import (
 )
 
 func main() {
-	nums := []int{4,3,2,7,8,2,3,1}
+	nums := []int{4, 3, 2, 7, 8, 2, 3, 1}
 	ret := findDisappearedNumbers(nums)
 	fmt.Println(ret)
 }
@@ -29,7 +29,6 @@ func findDisappearedNumbers(nums []int) []int {
 func abs(x int) int {
 	if x > 0 {
 		return x
-	} else {
-		return -1 * x
 	}
+	return -1 * x
 }

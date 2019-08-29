@@ -15,5 +15,5 @@ func arrangeCoins(n int) int {
 	for ; n > i; i++ {
 		n -= i
 	}
-	return i-1
+	return i - 1
 }

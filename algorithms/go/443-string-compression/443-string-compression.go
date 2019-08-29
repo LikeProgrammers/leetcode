@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	chars := []byte{'a','a','b','b','c','c','c'}
+	chars := []byte{'a', 'a', 'b', 'b', 'c', 'c', 'c'}
 	ret := compress(chars)
 	fmt.Println(ret, chars)
 }
